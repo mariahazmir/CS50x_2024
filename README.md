@@ -1,60 +1,60 @@
 # CS50x Projects 🖥️
 
-Welcome to my CS50x repository! This is where I’ve uploaded all the projects and assignments I completed while taking Harvard's CS50x course — an introduction to computer science that covers the basics of programming, algorithms, and more.
+Welcome to my CS50x repository! This is where I’ve uploaded all the projects and assignments I completed while taking [Harvard's CS50x](https://cs50.harvard.edu/x) course — an introduction to computer science that covers the basics of programming, algorithms, and more.
 
 ## About This Repository
 
 This repository contains projects organized by week:
 
 ### Week 0: Starting from Scratch
-- **[Scratch Project](CS50x_2024/tree/main/Week%200)**: My initial project created using Scratch, exploring basic programming concepts.
+- **[Scratch Project](./Week%200)**: My initial project created using Scratch, exploring basic programming concepts.
 
 ### Week 1: C
-- **[Hello, Me](./Week 1/hello/)**: My very first C program that simply prints "Hello, world!".
-- **[Mario (More)](./Week 1/mario/)**: A program that recreates the classic "Super Mario" pyramid using loops.
-- **[Credit](./Week 1/credit/)**: A credit card number validation program using Luhn's algorithm.
+- **[Hello, Me](./Week%201/hello/)**: My very first C program that simply prints "Hello, world!".
+- **[Mario (More)](./Week%201/mario/)**: A program that recreates the classic "Super Mario" pyramid using loops.
+- **[Credit](./Week%201/credit/)**: A credit card number validation program using Luhn's algorithm.
 
 ### Week 2: Arrays
-- **[Scrabble](./Week 2/scrabble/)**: A program that calculates the Scrabble score of a word.
-- **[Readability](./Week 2/readability/)**: A program that determines the readability of a text based on the Coleman-Liau index.
-- **[Substitution](./Week 2/substitution/)**: An implementation of a substitution cipher for encryption.
+- **[Scrabble](./Week%202/scrabble/)**: A program that calculates the Scrabble score of a word.
+- **[Readability](./Week%202/readability/)**: A program that determines the readability of a text based on the Coleman-Liau index.
+- **[Substitution](./Week%202/substitution/)**: An implementation of a substitution cipher for encryption.
 
 ### Week 3: Algorithms
-- **[Sort](./Week 3/sort/)**: A program that implements different sorting algorithms.
-- **[Plurality](./Week 3/plurality/)**: An implementation of a plurality voting system.
-- **[Runoff](./Week 3/runoff/)**: A program simulating a runoff voting system.
+- **[Sort](./Week%203/sort/)**: A program that implements different sorting algorithms.
+- **[Plurality](./Week%203/plurality/)**: An implementation of a plurality voting system.
+- **[Runoff](./Week%203/runoff/)**: A program simulating a runoff voting system.
 
 ### Week 4: Memory
-- **[Volume](./Week 4/volume/)**: A program to change the volume of an audio file.
-- **[Filter (Less)](./Week 4/filter/)**: A program applying various image filters.
-- **[Recover](./Week 4/recover/)**: A program that recovers JPEGs from a memory card.
+- **[Volume](./Week%204/volume/)**: A program to change the volume of an audio file.
+- **[Filter (Less)](./Week%204/filter/)**: A program applying various image filters.
+- **[Recover](./Week%204/recover/)**: A program that recovers JPEGs from a memory card.
 
 ### Week 5: Data Structures
-- **[Inheritance](./Week 5/inheritance/)**: A program simulating genetic inheritance.
-- **[Speller](./Week 5/speller/)**: A dictionary-based spell-checking program.
+- **[Inheritance](./Week%205/inheritance/)**: A program simulating genetic inheritance.
+- **[Speller](./Week%205/speller/)**: A dictionary-based spell-checking program.
 
 ### Week 6: Python
-- **[Sentimental / Hello](./Week 6/sentimental-hello/)**: My first Python program.
-- **[Sentimental / Mario (More)](./Week 6/sentimental-mario/)**: The Mario pyramid implemented in Python.
-- **[Sentimental / Credit](./Week 6/sentimental-credit/)**: The Credit card validation program in Python.
-- **[Sentimental / Readability](./Week 6/sentimental-readability/)**: The Readability index program in Python.
-- **[DNA](./Week 6/dna/)**: A program that identifies a person based on their DNA sequence.
+- **[Sentimental / Hello](./Week%206/sentimental-hello/)**: My first Python program.
+- **[Sentimental / Mario (More)](./Week%206/sentimental-mario/)**: The Mario pyramid implemented in Python.
+- **[Sentimental / Credit](./Week%206/sentimental-credit/)**: The Credit card validation program in Python.
+- **[Sentimental / Readability](./Week%206/sentimental-readability/)**: The Readability index program in Python.
+- **[DNA](./Week%206/dna/)**: A program that identifies a person based on their DNA sequence.
 
 ### Week 7: SQL
-- **[Songs](./Week 7/songs/)**: SQL queries analyzing a music database.
-- **[Movies](./Week 7/movies/)**: SQL queries that analyze a movies database.
-- **[Fiftyville](./Week 7/fiftyville/)**: A set of SQL queries to solve a mystery in the fictional town of Fiftyville.
+- **[Songs](./Week%207/songs/)**: SQL queries analyzing a music database.
+- **[Movies](./Week%207/movies/)**: SQL queries that analyze a movies database.
+- **[Fiftyville](./Week%207/fiftyville/)**: A set of SQL queries to solve a mystery in the fictional town of Fiftyville.
 
 ### Week 8: Web Development
-- **[Trivia](./Week 8/trivia/)**: A web-based trivia game.
-- **[Homepage](./Week 8/homepage/)**: A personal homepage built with HTML, CSS, and JavaScript.
+- **[Trivia](./Week%208/trivia/)**: A web-based trivia game.
+- **[Homepage](./Week%208/homepage/)**: A personal homepage built with HTML, CSS, and JavaScript.
 
 ### Week 9: Flask
-- **[Birthdays](./Week 9/birthdays/)**: A simple web app to track birthdays.
-- **[Finance](./Week 9/finance/)**: A stock trading simulation web app.
+- **[Birthdays](./Week%209/birthdays/)**: A simple web app to track birthdays.
+- **[Finance](./Week%209/finance/)**: A stock trading simulation web app.
 
 ### Final Project
-- **[TuneScribe](./Week 10)**: A Python program that generates a Spotify playlist where the song titles form a sentence based on a given input.
+- **[TuneScribe](./Week%2010)**: A web application that allows users to generate Spotify playlists based on a given sentence or phrase.
 
 ## Disclaimer
 
