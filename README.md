@@ -7,7 +7,7 @@ Welcome to my CS50x repository! This is where I’ve uploaded all the projects a
 This repository contains projects organized by week:
 
 ### Week 0: Starting from Scratch
-- **[Scratch Project](CS50x_2024/tree/main/Week%200)**: My initial project created using Scratch, exploring basic programming concepts.
+- **[Scratch Project](tree/main/Week%200)**: My initial project created using Scratch, exploring basic programming concepts.
 
 ### Week 1: C
 - **[Hello, Me](./Week 1/hello/)**: My very first C program that simply prints "Hello, world!".
